@@ -1,0 +1,22 @@
+* {
+    margin: 12px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: lightgoldenrodyellow;
+    height: 100px;
+    text-align: right;
+    
+}
+
+.flex {
+display: flex;
+flex-wrap: wrap;
+
+}
+.logo {
+    text-align: left;
+}
+

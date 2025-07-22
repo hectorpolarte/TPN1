@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    font-size: 72px ;
+}
+
+/* selector universal */
+
+* {
+    color: red;
+}
+
+/* selector ID */
+
+    #subtitulo {
+        color: green;
+    }
+    .contenedor {
+        display: flex;
+
+    }
+    * {
+
+    }
+
+    a {
+        text-decoration: none;
+    }
